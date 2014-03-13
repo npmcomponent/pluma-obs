@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pluma/obs](http://github.com/pluma/obs). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pluma-obs`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Synopsis
 
 **obs** is a powerful implementation of observable properties that can be used on both the client-side and the server-side.

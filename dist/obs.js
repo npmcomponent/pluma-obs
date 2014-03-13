@@ -1,5 +1,5 @@
 /*! obs 0.11.2 Original author Alan Plum <me@pluma.io>. Released into the Public Domain under the UNLICENSE. @preserve */
-var PubSub = require('sublish').PubSub,
+var PubSub = require('pluma-sublish').PubSub,
     slice = Array.prototype.slice,
     isArray = Array.isArray ? Array.isArray : function(arr) {
         return Object.prototype.toString.call(arr) === '[object Array]';
